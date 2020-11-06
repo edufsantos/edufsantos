@@ -11,8 +11,10 @@ Sou apaixonado por tecnologia, arte, musica e café. Estou me especializando no 
 💼 &nbsp;Atualmente trabalho remotamente na [Gestor Food](https://gestorfood.com/).<br/>
 👍 &nbsp; Estou aberto para trabalhar em minhas horas vagas remotamente como freelancer.<br/>
 
-💻 📱 &nbsp; Programação: <br/>
 
+## Skills:
+
+💻 📱 &nbsp; Programação: <br/>
 ![HTML](https://img.shields.io/badge/-HTML-E44D25?style=flat&logoColor=fff&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-254DE6?style=flat&logoColor=fff&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FF0000?style=flat&logoColor=fff&logo=javascript)&nbsp;
@@ -21,15 +23,15 @@ Sou apaixonado por tecnologia, arte, musica e café. Estou me especializando no 
 ![Styled-Components](https://img.shields.io/badge/-Styled_Components-DB9A64?style=flat&logoColor=fff&logo=styled-components)&nbsp;
 ![Material UI](https://img.shields.io/badge/-Material_Ui-254DE6?style=flat&logoColor=fff&logo=material-ui)&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edufsantos&layout=compact)](https://github.com/edufsantos/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=edufsantos&show_icons=true&theme=default)
-
-## Skills:
 
 ✍💻 &nbsp; Designing e Prototipagem<br/>
 
 ![Figma](https://img.shields.io/badge/-Figma-fafafa?style=flat&logoColor=figma&logo=figma)&nbsp;
 ![AdobeXD](https://img.shields.io/badge/-Adobe_XD-fafafa?style=flat&logoColor=adobe-xd&logo=adobe-xd)&nbsp;
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edufsantos&layout=compact)](https://github.com/edufsantos/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=edufsantos&show_icons=true&theme=default)
 
 ## Curiozidades sobre mim:
 
