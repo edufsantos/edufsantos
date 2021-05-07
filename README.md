@@ -8,7 +8,7 @@
 Sou apaixonado por tecnologia, arte, musica e café. Estou me especializando no desenvolvimento Front-End e estou aberto a novas experiências na area de tecnologia nas horas vagas. Tenho conhecimento nas seguintes stacks: HTML5, CSS, JavaScript, ES6, ReactJs e ReactNative. Sou um programador em constante evolução e tenho paixão no que eu faço
 
 📱 &nbsp; O foco da minha carreira é no Front-End, utilizando React.js para aplicações Web e React Native em aplicações mobile<br/>
-💼 &nbsp;Atualmente trabalho remotamente na [Gestor Food](https://gestorfood.com/).<br/>
+💼 &nbsp;Atualmente trabalho  na Solus Computação.<br/>
 👍 &nbsp; Estou aberto para trabalhar em minhas horas vagas remotamente como freelancer.<br/>
 
 
